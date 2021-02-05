@@ -21,7 +21,6 @@ web/modules/contrib
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
 sites/*/services*.yml
-*/settings.php
 web/sites/default/settings.php
 
 # Ignore paths that contain user-generated content.
